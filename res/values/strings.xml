@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">SpinnerAsyncTask</string>
+    <string name="choose_prov">Elige una provincia</string>
+    <string name="choose_com">Elige una comunidad</string>
+    <string name="choose_loc">Elige una localidad</string>
+</resources>
